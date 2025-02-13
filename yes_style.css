@@ -18,6 +18,9 @@ body {
 }
 
 .gif_container img {
+    border: solid rgb(255, 142, 142) 2px;
+    box-shadow: 10px 10px 10px rgb(255, 208, 208);
+    border-radius: 10px;
     width: 50%; 
     max-width: 500px; 
     height: auto; 

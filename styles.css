@@ -23,6 +23,8 @@ body {
   }
   
   .yes-button {
+    border: solid rgb(0, 255, 4) 2px;
+    box-shadow: 10px 10px 10px rgb(0, 48, 1,0.3);
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
@@ -34,6 +36,8 @@ body {
   }
   
   .no-button {
+    border: solid rgb(255, 0, 0) 2px;
+    box-shadow: 10px 10px 10px rgb(255, 0, 0,0.3);
     font-size: 1.5em;
     padding: 10px 20px;
     background-color: #f44336;
@@ -44,6 +48,8 @@ body {
   }
   
   .gif_container img {
+    border: solid rgb(255, 142, 142) 2px;
+    box-shadow: 10px 10px 10px rgb(255, 208, 208);
     max-width: 50%;
     height: auto;
     border-radius: 10px;
